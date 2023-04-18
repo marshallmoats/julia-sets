@@ -1,0 +1,1 @@
+Basic Julia set visualizer. Use keyboard controls to pan, zoom, and modify the parameters of the Julia set.
